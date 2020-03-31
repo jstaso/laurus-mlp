@@ -104,7 +104,7 @@ export default class App extends React.Component {
               <div className="bg-primary py-5" />
               <div className="border my-2">
                 <h1>My Laurus Title</h1>
-                <p>Home / Breadcrumb</p>
+                <p>Home / Breadcrumbies</p>
               </div>
               <div className="border">
                 <Display view={this.state.view} />
