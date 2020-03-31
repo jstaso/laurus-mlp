@@ -1,0 +1,195 @@
+[
+  {
+    "name": "Research",
+    "id": "research",
+    "icon": "files/library_resources/images/book-reader.svg",
+    "text": "Use these online libraries to research for your projects.",
+    "info": [],
+    "items": [
+      {
+        "name": "ProQuest",
+        "text": "The ProQuest Research Library includes more than 4,700 titles.",
+        "url": "http://search.proquest.com/pqrl/index?accountid=135307"
+      },
+      {
+        "name": "The Library of Congress",
+        "text": "The largest library in the world, with millions of books, recordings, photographs, newspapers, maps and manuscripts in its collections. The Library is the main research arm of the U.S. Congress and the home of the U.S Copyright Office.",
+        "url": "https://www.loc.gov"
+      },
+      {
+        "name": "Smithsonian",
+        "text": "The world’s largest museum, education, and research complex. The website is a curation of featured collections, stories, and digital records of Art & Design, History & Culture, and Science & Nature.",
+        "url": "https://www.si.edu"
+      },
+      {
+        "name": "Internet Archive",
+        "text": "A non-profit library of millions of free books, movies, software, music, websites, and more.",
+        "url": "https://archive.org/"
+      },
+      {
+        "name": "NARA",
+        "text": "The National Archives and Records Administration (NARA) is the nation's record keeper.",
+        "url": "https://www.archives.gov/"
+      },
+      {
+        "name": "Local Library",
+        "text": "Students are encouraged to access the resources available at their local public library.",
+        "button": "Search for Library",
+        "url": "http://www.publiclibraries.com"
+      },
+      {
+        "name": "OATD",
+        "text": "The Open Access Theses and Dissertations includes over 4.5 million theses and disserations from over 1,100 colleges.",
+        "button": "Search for Library",
+        "url": "http://oatd.org"
+      },
+      {
+        "name": "ThesisCommons",
+        "text": "Open repository for theses and dissertations from the Open Science Foundation.",
+        "button": "Search for Library",
+        "url": "https://thesiscommons.org"
+      }
+    ]
+  },
+  {
+    "name": "eBooks",
+    "id": "ebooks",
+    "icon": "files/library_resources/images/book.svg",
+    "text": "Websites that offer free digital textbooks, reference materials and online learning resources",
+    "info": [],
+    "items": [
+      {
+        "name": "Bookboon",
+        "text": "Free access to hundreds of free textbooks written by university professors.",
+        "url": "http://bookboon.com"
+      },
+      {
+        "name": "OpenStax",
+        "text": "Free high-quality peer-reviewed, openly licensed textbooks/",
+        "url": "http://cnx.org"
+      },
+      {
+        "name": "Planet eBook",
+        "text": "Free classic literature Ebooks in multi-formats for reading across all devices.",
+        "url": "http://www.planetebook.com"
+      },
+      {
+        "name": "Open Textbook Library",
+        "text": "A growing catalog of free, peer-reviewed, and openly licensed textbooks.",
+        "url": "http://open.umn.edu/opentextbooks"
+      },
+      {
+        "name": "O'Reilly Open Books Project",
+        "text": "Features computer and technology related books",
+        "url": "http://www.oreilly.com/openbook"
+      },
+      {
+        "name": "IntechOpen",
+        "text": "Includes hundreds of free open access books in the fields of science, technology, and medicine.",
+        "url": "https://www.intechopen.com/books"
+      }
+    ]
+  },
+  {
+    "name": "Art & Design",
+    "id": "art",
+    "icon": "files/library_resources/images/image.svg",
+    "text": "Websites and other online resources that offer images and art for students.",
+    "info": [],
+    "items": [
+      {
+        "name": "MMA Heilbrunn",
+        "text": "An outstanding Timeline of Art History, which can be searched by region, time, and themes.",
+        "url": "https://www.metmuseum.org/toah"
+      },
+      {
+        "name": "The Getty Conservation Institute",
+        "text": "The Getty Conservation Institute offers great insight into the methods of producing and conserving art.",
+        "url": "https://www.getty.edu/conservation"
+      },
+      {
+        "name": "Google Art Project",
+        "text": "Google Art Project offers virtual tours of galleries and museums around the world. ",
+        "url": "https://artsandculture.google.com"
+      },
+      {
+        "name": "360 Cities ",
+        "text": "360 Cities is a collection of virtual tours of select cities and art monuments.",
+        "url": "https://www.360cities.net"
+      },
+      {
+        "name": "SFMoMA Video Archive",
+        "text": "Offers a wonderful collection of historic videos featuring everything from Van Gogh painting in his garden to the debate over Richard Serra’s Tilted Arc in NYC.",
+        "url": "https://www.sfmoma.org/watch"
+      },
+      {
+        "name": "The Library of Congress Digital Collections",
+        "text": "The Library of Congress Digital Collections is a comprehensive site featuring the Library of Congress’ digital collections and archive.",
+        "url": "https://www.loc.gov/collections"
+      },
+      {
+        "name": "Web Gallery of Art",
+        "text": "Web Gallery of Art is an excellent database of images and artist bios (majority of focus: medieval era to 19th century).",
+        "url": "https://www.wga.hu"
+      },
+      {
+        "name": "PBS Art 21",
+        "text": "A collection of video clips and full episodes featuring 21st century artists. Searchable by artist and theme.",
+        "url": "https://www.pbs.org/show/art-21"
+      }
+    ]
+  },
+  {
+    "name": "Medical Resources",
+    "id": "medical",
+    "icon": "files/library_resources/images/medical.svg",
+    "text": "A list of professional research websites for medical students.",
+    "info": [],
+    "items": [
+      {
+        "name": "Journal of the American Medical Association",
+        "text": "A vast collection of medical research and resources.",
+        "url": "https://jamanetwork.com"
+      },
+      {
+        "name": "New England Journal of Medicine",
+        "text": "A source for research, reviews, medical cases, and articles.",
+        "url": "https://www.nejm.org"
+      },
+      {
+        "name": "Web MD",
+        "text": "News, health tips, research, and articles on all things medical with content created by doctors and those in the medical profession.",
+        "url": "https://www.webmd.com/"
+      }
+    ]
+  },
+  {
+    "name": "Virtual Field Trips",
+    "id": "fieldtrips",
+    "icon": "files/library_resources/images/bxs-museum.svg",
+    "text": "",
+    "info": [],
+    "items": [
+      {
+        "name": "The San Diego Zoo",
+        "text": "A vast collection of medical research and resources.",
+        "url": "https://animals.sandiegozoo.org/live-cams"
+      },
+      {
+        "name": "12 Banksy Murals",
+        "text": "A source for research, reviews, medical cases, and articles.",
+        "url": "https://artsandculture.google.com/theme/12-banksy-murals-you-can-see-on-street-view/NwLyuEgokJgAKQ"
+      },
+      {
+        "name": "NASA",
+        "text": "News, health tips, research, and articles on all things medical with content created by doctors and those in the medical profession.",
+        "url": "https://www.nasa.gov/"
+      },
+      {
+        "name": "Virtual Tour of the Eisenhower Executive Office Building",
+        "text": "News, health tips, research, and articles on all things medical with content created by doctors and those in the medical profession.",
+        "url": "https://artsandculture.google.com/exhibit/virtual-tour-of-the-eisenhower-executive-office-building/xgJi0RWsaoFSJg"
+      }
+    ]
+  }
+]

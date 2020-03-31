@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Tutoring Club",
+    "text": "The Tutoring Club is a place where you will find Peer Mentors ready and waiting to assist you with quick questions on assignments, minor tech issues, and any questions about yoru class that you may have.",
+    "dates": "Meets every Wednesday 4pm - 5pm PST",
+    "image": "files/library_resources/images/clubs/get-reel-club-square.jpg",
+    "banner": "files/library_resources/images/clubs/get-reel-club-banner.jpg",
+    "info": [
+      {
+        "text": "Meets every Wednesday 4pm - 5pm PST",
+        "icon": "files/library_resources/images/bxs-time-five.svg"
+      },
+      {
+        "text": "https://laurus.adobeconnect.com/mentor/",
+        "icon": "files/library_resources/images/bx-link.svg",
+        "url": "https://laurus.adobeconnect.com/mentor/",
+        "btn": "Open Meeting Room"
+      }
+    ]
+  },
+  {
+    "name": "Get Reel Club",
+    "text": "When it comes to getting work in the Digital Arts and Computer Animation field, completing a demo reel should be your first priority. Your 2nd priority is to keep making it even better! Join in discussing current industry trends, looking at new and emerging technologies, and receive assistance and work critiques from department instructors and your peers.",
+    "dates": "Meets every third Friday from 2-4 PM",
+    "image": "files/library_resources/images/clubs/get-reel-club-square.jpg",
+    "banner": "files/library_resources/images/clubs/get-reel-club-banner.jpg",
+    "info": [
+      {
+        "text": "Meets 6-7pm every 3rd Thursday of the month",
+        "icon": "files/library_resources/images/bxs-time-five.svg"
+      },
+      {
+        "text": "Andre Wahl",
+        "email": "andrew.wahl@lauruscollege.edu",
+        "icon": "files/library_resources/images/bxs-user.svg"
+      },
+      {
+        "text": "https://laurus.adobeconnect.com/itclub/",
+        "icon": "files/library_resources/images/bx-link.svg",
+        "url": "https://laurus.adobeconnect.com/itclub/",
+        "btn": "Open Meeting Room"
+      },
+      {
+        "text": "Facebook Group",
+        "icon": "files/library_resources/images/bxl-facebook-square.svg",
+        "url": "https://www.facebook.com/groups/324525604632100/",
+        "btn": "Facebook Group"
+      }
+    ]
+  },
+  {
+    "name": "ITNet Pro Club",
+    "text": "Preparing students with high abilities and skills which can allow them to perform their tasks efficiently and raise their skills in the areas of Computer Networking and Information Technology in order to achieve success and self-professional excellence.",
+    "dates": "6-7 pm every 3rd Thursday of the month",
+    "image": "files/library_resources/images/clubs/inet-pro-club-square.jpg",
+    "banner": "files/library_resources/images/clubs/inet-pro-club-banner.jpg",
+    "info": [
+      {
+        "text": "Meets 6-7pm every 3rd Thursday of the month",
+        "icon": "files/library_resources/images/bxs-time-five.svg"
+      },
+      {
+        "text": "Randall Lewis",
+        "email": "randall.lewis@lauruscollege.edu",
+        "icon": "files/library_resources/images/bxs-user.svg"
+      },
+      {
+        "text": "https://laurus.adobeconnect.com/itclub/",
+        "icon": "files/library_resources/images/bx-link.svg",
+        "url": "https://laurus.adobeconnect.com/itclub/",
+        "btn": "Open Meeting Room"
+      },
+      {
+        "text": "Facebook Group",
+        "icon": "files/library_resources/images/bxl-facebook-square.svg",
+        "url": "https://www.facebook.com/groups/797372030367569/",
+        "btn": "Facebook Group"
+      }
+    ]
+  },
+  {
+    "name": "The Real Medical Billers Club",
+    "text": "Come hang out with The Real Medical Billers and get an inside look of the medical billing world. From current event topics affecting the medical field to advice on dealing with difficult patients and everything in between! Bring your own concerns and questions regarding the medical billing field and get REAL answers!",
+    "dates": "Meets every third Friday from 2-4 PM",
+    "image": "files/library_resources/images/clubs/the-real-medical-billers-club-square.jpg",
+    "banner": "files/library_resources/images/clubs/the-real-medical-billers-club-banner.jpg/",
+    "info": [
+      {
+        "text": "12-1 pm every 3rd Friday of the month",
+        "icon": "files/library_resources/images/bxs-time-five.svg"
+      },
+      {
+        "text": "Charla Sanchez",
+        "email": "charla.sanchez@lauruscollege.edu",
+        "icon": "files/library_resources/images/bxs-user.svg"
+      },
+      {
+        "text": "Erica Gray",
+        "email": "erica.gray@lauruscollege.edu",
+        "icon": "files/library_resources/images/bxs-user.svg"
+      },
+      {
+        "text": "https://laurus.adobeconnect.com/medicalbillingclub/",
+        "icon": "files/library_resources/images/bx-link.svg",
+        "url": "https://laurus.adobeconnect.com/medicalbillingclub/",
+        "btn": "Open Meeting Room"
+      },
+      {
+        "text": "Facebook Group",
+        "icon": "files/library_resources/images/bxl-facebook-square.svg",
+        "url": "https://www.facebook.com/groups/126051874608960/",
+        "btn": "Facebook Group"
+      }
+    ]
+  },
+  {
+    "name": "The Entrepreneur's Club",
+    "text": "The Entrepreneur’s Club is open to all Laurus College students who are interested in starting their own business, or who have that entrepreneurial spirit. Club activities will include guest speakers, an opportunity to work with mentors, help in defining and refining business plans, and a chance to connect with and network with industry professionals and other students who can offer positive feedback and input.",
+    "dates": "Meets every third Friday from 2-4 PM",
+    "image": "files/library_resources/images/clubs/the-entrepreneurs-club-square.jpg",
+    "banner": "files/library_resources/images/clubs/the-entrepreneurs-club-banner.jpg",
+    "info": [
+      {
+        "text": "First and third Friday of the month at 1 PM",
+        "icon": "files/library_resources/images/bxs-time-five.svg"
+      },
+      {
+        "text": "Wendy Flores",
+        "email": "wendy.flores@lauruscollege.edu",
+        "icon": "files/library_resources/images/bxs-user.svg"
+      },
+      {
+        "text": "https://laurus.adobeconnect.com/entrepreneursclub/",
+        "icon": "files/library_resources/images/bx-link.svg",
+        "url": "https://laurus.adobeconnect.com/entrepreneursclub/",
+        "btn": "Open Meeting Room"
+      },
+      {
+        "text": "Facebook Group",
+        "icon": "files/library_resources/images/bxl-facebook-square.svg",
+        "url": "https://www.facebook.com/groups/1665816080380373/",
+        "btn": "Facebook Group"
+      }
+    ]
+  },
+  {
+    "name": "Design Club",
+    "text": "The Design Club is a way for students and alumni to meet with their peers to discuss current design trends, topics, and techniques. The club is also a way for students and alumni to get critiques and assistance from each other with their current projects and help them to grow their design skills through constructive criticism.",
+    "dates": "Meets every third Friday from 1-2 PM",
+    "image": "files/library_resources/images/clubs/design-club-square.jpg",
+    "banner": "files/library_resources/images/clubs/design-club-banner.jpg",
+    "info": [
+      {
+        "text": "12-1 pm every 3rd Friday of the month",
+        "icon": "files/library_resources/images/bxs-time-five.svg"
+      },
+      {
+        "text": "Bushra Hage",
+        "email": "bushra.hage@lauruscollege.edu",
+        "icon": "files/library_resources/images/bxs-user.svg"
+      },
+      {
+        "text": "https://laurus.adobeconnect.com/design-club",
+        "icon": "files/library_resources/images/bx-link.svg",
+        "url": "https://laurus.adobeconnect.com/design-club",
+        "btn": "Open Meeting Room"
+      },
+      {
+        "text": "Facebook Group",
+        "icon": "files/library_resources/images/bxl-facebook-square.svg",
+        "url": "https://www.facebook.com/groups/420984074923608/",
+        "btn": "Facebook Group"
+      }
+    ]
+  }
+]

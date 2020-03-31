@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Research",
+    "id": "research",
+    "icon": "book-reader.svg",
+    "text": "Use these online libraries to research for your projects.",
+    "items": [
+      {
+        "name": "ProQuest",
+        "text": "The ProQuest Research Library includes more than 4,700 titles",
+        "url": "http://search.proquest.com/pqrl/index?accountid=135307"
+      }
+    ]
+  }
+]
